@@ -9,10 +9,10 @@ Refreshed my knowledge of Git and GitHub.
 <details>
 <summary>Screenshots</summary>
 
-![Completed quiz 1 screenshot](task_linux_cli/quiz-1.png)
-![Completed quiz 2 screenshot](task_linux_cli/quiz-2.png)
-![Completed quiz 3 screenshot](task_linux_cli/quiz-3.png)
-![Completed quiz 4 screenshot](task_linux_cli/quiz-4.png)
+![Completed quiz 1 screenshot](task_linux_cli/quiz-1.PNG)
+![Completed quiz 2 screenshot](task_linux_cli/quiz-2.PNG)
+![Completed quiz 3 screenshot](task_linux_cli/quiz-3.PNG)
+![Completed quiz 4 screenshot](task_linux_cli/quiz-4.PNG)
 
 </details>
 
