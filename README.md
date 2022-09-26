@@ -17,3 +17,17 @@ Refreshed my knowledge of Git and GitHub.
 </details>
 
 I already had some experience with the Ubuntu terminal before the course and just repeated some commands. I knew very little about HTTP, so almost everything described in the articles was new to me.
+
+## 2. Git Collaboration
+
+<details>
+<summary>Screenshots</summary>
+
+![Completed week 3 of Google's Git Course](task_git_collaboration/week-3.PNG)
+![Completed week 4 of Google's Git Course](task_git_collaboration/week-4.PNG)
+![Completed main section (only required lessons) at learngitbranching.js.org](task_git_collaboration/learngitbranching-1.PNG)
+![Completed remote section at learngitbranching.js.org](task_git_collaboration/learngitbranching-2.PNG)
+
+</details>
+
+Almost everything related to Git collaboration was new to me as I used it only for personal needs before. Exercises at learngitbranching.js.org helped with understanding a lot, but I feel that I'll need to return to some of the covered topics again.
