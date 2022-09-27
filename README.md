@@ -31,3 +31,16 @@ I already had some experience with the Ubuntu terminal before the course and jus
 </details>
 
 Almost everything related to Git collaboration was new to me as I used it only for personal needs before. Exercises at learngitbranching.js.org helped with understanding a lot, but I feel that I'll need to return to some of the covered topics again.
+
+## 3. Intro to HTML and CSS
+
+<details>
+<summary>Screenshots</summary>
+
+![Completed week 1](task_html_css_intro/week-1.PNG)
+![Completed week 2](task_html_css_intro/week-2.PNG)
+![Completed HTML&CSS lessons at codecademy.com](task_html_css_intro/codecademy-html-css.PNG)
+
+</details>
+
+I knew everything from these courses, except how 'position: sticky' works.
