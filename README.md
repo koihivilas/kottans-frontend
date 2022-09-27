@@ -44,3 +44,15 @@ Almost everything related to Git collaboration was new to me as I used it only f
 </details>
 
 I knew everything from these courses, except how 'position: sticky' works.
+
+## 4. Responsive Web Design
+
+<details>
+<summary>Screenshots</summary>
+
+![Completed Flexbox Froggy game](task_responsive_web_design/flexfroggy.PNG)
+![Completed Grid Garden game](task_responsive_web_design/gridgarden.PNG)
+
+</details>
+
+I've used flexbox before, but forgot a lot of properties, so it was really useful to refresh my knowledge. Grid was completely new to me.
